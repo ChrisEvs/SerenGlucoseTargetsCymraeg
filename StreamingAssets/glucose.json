@@ -1,0 +1,59 @@
+{
+    "titles": [
+        {
+            "titleTextEng": "Blood Glucose Targets",
+            "titleTextCym": "Targedau Glwcos y Gwaed",
+            "subTitleTextEng": "Click on each time of the day to see what the recommended target for blood glucose are.",
+            "subTitleTextCym": "Cliciwch ar bob adeg o'r dydd i weld beth yw'r targedau sy'n cael eu hargymell ar gyfer glwcos y gwaed"
+            
+        }
+    ],
+    "timeOfDay": [
+        {
+            "popUpHeadingTxtEng": "On Waking",
+            "popUpHeadingTxtCym": "Wrth Ddeffro",
+            "popUpMainTxtEng": "The recommended target for waking is between 4 and 7 mmol/l. Your waking levels may vary but it can be useful to look for patterns. If your blood glucose is consistently higher or lower, talk to your diabetes team as you may need to adjust your insulin dose.",
+            "popUpMainTxtCym": "Y targed sy'n cael ei argymell wrth ddeffro yw rhwng 4 a 7 mmol/l. Gall eich lefelau amrywio wrth ddeffro ond gall fod yn ddefnyddiol i chi chwilio am batrymau. Os yw glwcos eich gwaed yn gyson uwch neu is, siaradwch â'ch tîm diabetes oherwydd efallai y bydd angen i chi addasu'ch dos o inswlin",
+            "imageName":"BGT_1_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "Before Meals",
+            "popUpHeadingTxtCym": "Cyn Prydau Bwyd",
+            "popUpMainTxtEng": "The blood glucose target before meals is 4-7mmol/l. This is the normal range for a person who doesn’t have diabetes. It is useful to know if your blood glucose is above target before meals so that you can give extra insulin as a correction.",
+            "popUpMainTxtCym": "Targed glwcos y gwaed cyn prydau yw 4-7mmol/l. Dyma'r amrediad normal ar gyfer person nad oes ganddo ddiabetes. Mae'n ddefnyddiol gwybod a yw glwcos eich gwaed yn uwch na'r targed cyn prydau bwyd fel y gallwch chi roi inswlin ychwanegol fel cywiriad",
+            "imageName":"BGT_2_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "2 Hours After Meals",
+            "popUpHeadingTxtCym": "2 Awr ar ôl Prydau Bwyd",
+            "popUpMainTxtEng": "The peak action of fast acting insulin is around 2-3 hours and so you would expect blood glucose to have come back down 2 hours after finishing eating. If your blood glucose is often higher than this it may mean that your insulin to carbohydrate ratio needs to adjusted.",
+            "popUpMainTxtCym": "Y weithred uchaf o inswlin sy'n gweithredu'n gyflym yw tua 2-3 awr ac felly byddech yn disgwyl i glwcos y gwaed ostwng 2 awr ar ôl gorffen bwyta. Os yw glwcos eich  gwaed yn aml yn uwch na hyn, gall olygu bod angen addasu eich cymhareb inswlin i garbohydrad.",
+            "imageName":"BGT_3_popup"
+        },
+        {
+            "popUpHeadingTxtEng": "Before Bed",
+             "popUpHeadingTxtCym": "Cyn Gwely",
+            "popUpMainTxtEng": "The before bed target of 4-8mmol/l is similar to the normal range. There are many factors that need to be considered at bedtime such as activity levels during the day, timing of evening meal or bedtime snack and needing to manage a high or low reading at bedtime. Your diabetes team will provide individual advice.",
+            "popUpMainTxtCym": "Mae'r targed cyn gwely o 4-8mmol/l yn debyg i'r amrediad normal. Mae angen ystyried llawer o ffactorau cyn gwely megis lefelau gweithgarwch corfforol yn ystod y dydd, amseru prydau gyda'r nos neu fyrbryd amser gwely a'r angen i reoli darlleniad uchel neu isel cyn gwely. Bydd eich tîm diabetes yn rhoi cyngor unigol i chi.",
+            "imageName":"BGT_4_popup"
+        }
+    ],
+     "englishImgTxt": [
+        {
+            "Image1Eng": "On Waking",
+            "Image2Eng": "Before Meals",
+            "Image3Eng": "2 Hours After Meals",
+            "Image4Eng": "Before Bed"
+            
+        }
+    ],
+     "welshImgTxt": [
+        {
+            "Image1Cym": "Ar Ddeffro",
+            "Image2Cym": "Cyn Prydau",
+            "Image3Cym": "2 Awr Ar ôl Prydau",
+            "Image4Cym": "Cyn Gwely"
+            
+        }
+    ]
+}
